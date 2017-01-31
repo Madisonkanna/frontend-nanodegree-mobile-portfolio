@@ -4,6 +4,9 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 
 To get started, check out the repository and inspect the code.
 
+Here's the website I'm optimizing:
+https://madisonkanna.github.io/frontend-nanodegree-mobile-portfolio/
+
 ### Getting started
 
 ####Part 1: Optimize PageSpeed Insights score for index.html
